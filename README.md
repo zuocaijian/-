@@ -102,10 +102,10 @@
 	>用来查看GitHub最受欢迎与最热项目的App。基于React Native，开源。  
 
 * **构建打包等项目工具**  
- - 快速打渠道包工具 [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin)  
- - 内存泄漏检测工具 [leakcanary](https://github.com/square/leakcanary)  
- - 可视化调试工具。facebook开源，可以很方便的实时可视化查看手机内存、数据库等的调试工具 [stetho](https://github.com/facebook/stetho)  
- - Android脱壳工具，需要xposed支持。[dumpDex](https://github.com/WrBug/dumpDex)  
+	- 快速打渠道包工具 [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin)  
+	- 内存泄漏检测工具 [leakcanary](https://github.com/square/leakcanary)  
+	- 可视化调试工具。facebook开源，可以很方便的实时可视化查看手机内存、数据库等的调试工具 [stetho](https://github.com/facebook/stetho)  
+	- Android脱壳工具，需要xposed支持。[dumpDex](https://github.com/WrBug/dumpDex)  
 
 * **其它工具**  
 	1、[Mars](https://github.com/Tencent/mars#mars_cn)  
@@ -210,7 +210,7 @@
  - freebsd linux系统开源项目[freebsd](https://github.com/freebsd/freebsd)  
  - ReactiveX [RxJava](https://github.com/ReactiveX/RxJava)  
 
-###书籍相关
+### 书籍相关
 1、Gradle Android Plugin中文版使用手册[Gradle-Android-Plugin](https://github.com/ChaosLeong/Gradle-Android-Plugin)  
 >可以用来学习如何Android Studio构建项目，了解Gradle语法。
 
@@ -224,19 +224,19 @@
 
 5、
 
-###Python
+### Python
 1、廖雪峰的python教程，实战源码[awesome-python3-webap](https://github.com/michaelliao/awesome-python3-webapp)  
 >需配合廖雪峰的python教程使用。用于学习python，理解后台服务器运行原理。  
 
 2、微信《跳一跳》Python辅助。可用来学习Python、adb和Android联调、测试。[wechat_jump_game](https://github.com/wangshub/wechat_jump_game)  
 
-###C/C++
+### C/C++
 1、[Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)  
 >不到500行的Http Server，可用来学习理解服务器程序的本质。练习熟悉C语。
 
 2、
 
-###其他
+### 其他
 1、[platform_development](https://github.com/android/platform_development)  
 >???????????
 
